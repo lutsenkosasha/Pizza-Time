@@ -12,13 +12,13 @@ CREATE TABLE Dish (
     Dish_name VARCHAR(255) NOT NULL,
     Description VARCHAR(255) NOT NULL,
     Number_of_grams INTEGER NOT NULL,
-    Price_Number INTEGER NOT NULL,
+    Price INTEGER NOT NULL,
     PRIMARY KEY(id)
 );
 
 CREATE INDEX dish_dish_name_index ON Dish(Dish_name);
 CREATE INDEX dish_number_of_grams_index ON Dish(Number_of_grams);
-CREATE INDEX dish_price_number_index ON Dish(Price_Number);
+CREATE INDEX dish_price_number_index ON Dish(Price);
 
 
 CREATE TABLE "Order" (
