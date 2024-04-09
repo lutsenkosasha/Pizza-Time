@@ -6,4 +6,4 @@
 Пользователь входит в личный кабинет с помощью номера телефона (логин) и пароля.  
 
 Модель базы данных:
-![image](https://github.com/lutsenkosasha/Pizza-Time/assets/128168000/ac83c118-9c24-4692-aa47-c17d276899c0)
+![image](https://github.com/lutsenkosasha/Pizza-Time/assets/128168000/a8fd60af-6e89-4d31-bda3-9901e9564f25)
